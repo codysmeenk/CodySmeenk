@@ -1,4 +1,6 @@
-### Hi there 👋
+Cody Smeenk
+
+Cody.Smeenk@wsu.edu
 
 <!--
 **codysmeenk/CodySmeenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
